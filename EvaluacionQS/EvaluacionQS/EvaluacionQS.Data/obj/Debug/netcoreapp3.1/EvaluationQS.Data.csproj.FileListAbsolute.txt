@@ -1,0 +1,5 @@
+C:\Users\Junior\Desktop\TEST\EvaluacionQS\EvaluacionQS\EvaluationQS.Data\bin\Debug\netcoreapp3.1\EvaluationQS.Data.deps.json
+C:\Users\Junior\Desktop\TEST\EvaluacionQS\EvaluacionQS\EvaluationQS.Data\bin\Debug\netcoreapp3.1\EvaluationQS.Data.dll
+C:\Users\Junior\Desktop\TEST\EvaluacionQS\EvaluacionQS\EvaluationQS.Data\obj\Debug\netcoreapp3.1\EvaluationQS.Data.csprojAssemblyReference.cache
+C:\Users\Junior\Desktop\TEST\EvaluacionQS\EvaluacionQS\EvaluationQS.Data\obj\Debug\netcoreapp3.1\EvaluationQS.Data.AssemblyInfoInputs.cache
+C:\Users\Junior\Desktop\TEST\EvaluacionQS\EvaluacionQS\EvaluationQS.Data\obj\Debug\netcoreapp3.1\EvaluationQS.Data.AssemblyInfo.cs
